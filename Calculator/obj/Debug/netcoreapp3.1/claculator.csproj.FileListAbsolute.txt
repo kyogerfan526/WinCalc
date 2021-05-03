@@ -1,0 +1,15 @@
+C:\Users\Julius\Documents\WinCalc-main\Calculator\bin\Debug\netcoreapp3.1\claculator.exe
+C:\Users\Julius\Documents\WinCalc-main\Calculator\bin\Debug\netcoreapp3.1\claculator.deps.json
+C:\Users\Julius\Documents\WinCalc-main\Calculator\bin\Debug\netcoreapp3.1\claculator.runtimeconfig.json
+C:\Users\Julius\Documents\WinCalc-main\Calculator\bin\Debug\netcoreapp3.1\claculator.runtimeconfig.dev.json
+C:\Users\Julius\Documents\WinCalc-main\Calculator\bin\Debug\netcoreapp3.1\claculator.dll
+C:\Users\Julius\Documents\WinCalc-main\Calculator\bin\Debug\netcoreapp3.1\claculator.pdb
+C:\Users\Julius\Documents\WinCalc-main\Calculator\obj\Debug\netcoreapp3.1\claculator.csprojAssemblyReference.cache
+C:\Users\Julius\Documents\WinCalc-main\Calculator\obj\Debug\netcoreapp3.1\claculator.Equal.resources
+C:\Users\Julius\Documents\WinCalc-main\Calculator\obj\Debug\netcoreapp3.1\claculator.csproj.GenerateResource.cache
+C:\Users\Julius\Documents\WinCalc-main\Calculator\obj\Debug\netcoreapp3.1\claculator.AssemblyInfoInputs.cache
+C:\Users\Julius\Documents\WinCalc-main\Calculator\obj\Debug\netcoreapp3.1\claculator.AssemblyInfo.cs
+C:\Users\Julius\Documents\WinCalc-main\Calculator\obj\Debug\netcoreapp3.1\claculator.csproj.CoreCompileInputs.cache
+C:\Users\Julius\Documents\WinCalc-main\Calculator\obj\Debug\netcoreapp3.1\claculator.dll
+C:\Users\Julius\Documents\WinCalc-main\Calculator\obj\Debug\netcoreapp3.1\claculator.pdb
+C:\Users\Julius\Documents\WinCalc-main\Calculator\obj\Debug\netcoreapp3.1\claculator.genruntimeconfig.cache
